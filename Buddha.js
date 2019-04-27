@@ -1,3 +1,4 @@
+哈哈
 module.exports=`
 //
 //                           _ooOoo_
